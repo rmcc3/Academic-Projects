@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\ray\source\repos\whitelistbinary\whitelistbinary\fileio.h(63): warning C4101: 'e': unreferenced local variable
+c:\users\ray\source\repos\whitelistbinary\whitelistbinary\fileio.h(85): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ray\source\repos\whitelistbinary\whitelistbinary\main.cpp(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\ray\source\repos\whitelistbinary\whitelistbinary\main.cpp(29): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  0 of 403 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  WhitelistBinary.vcxproj -> C:\Users\Ray\source\repos\WhitelistBinary\Release\WhitelistBinary.exe
