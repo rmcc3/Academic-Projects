@@ -21,3 +21,11 @@ This repository contains a *select* number of code samples for multiple projects
    This search was more of a for fun project for myself and you will notice the code is more advanced than my normal academic projects, but I learned quite a bit from it. Here we will have a `dataset.txt` which holds a list of whitelisted numbers. Additionally, duplicated numbers are removed after the data set is loaded into a vector array.  
 
    A twist is that only numbers in the data set file may be used. Binary search is used to find out if a number is inside of the data set, if not, it will return as such. You can find the binary search code in [this file](Binary%20Whitelist%20Search/WhitelistBinary/BinarySearch.h).
+
+5. Compute Income Using Structure
+
+   Simply uses structure objects to compute income of employees.
+
+6. Processing Time (OOP)
+   
+   This project was the test our knowledge in OOP. You may see most of the code in [TimeType.h](Processing%20Time/ProcessingTime/TimeType.h) and [TimeType.cpp](Processing%20Time/ProcessingTime/TimeType.cpp). This program simply adds 30 minutes to the next object and returns the data back.
